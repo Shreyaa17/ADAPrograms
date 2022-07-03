@@ -1,3 +1,4 @@
+//Defective Chessboard Problem:
 #include<stdio.h>
 int board[40][40];
 int tile=1;
